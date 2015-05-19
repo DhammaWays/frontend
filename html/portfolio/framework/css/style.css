@@ -1,0 +1,45 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.my-container {
+/*
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-left: auto;
+   margin-right: auto;
+ */
+ }
+
+ div {
+ 	/* border: 1px solid red; */
+ }
+
+a {
+	color: #747704;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
